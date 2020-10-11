@@ -2,5 +2,9 @@
 
 A part of my Prometheus setup
 
-* [Node exporter](prometheus-node-exporter.md)
+* [Prometheus](prometheus.md)
+
+Exporters
+
 * [MySQL exporter](prometheus-mysqld-exporter.md)
+* [Node exporter](prometheus-node-exporter.md)
